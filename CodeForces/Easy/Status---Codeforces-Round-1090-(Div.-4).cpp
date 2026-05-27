@@ -7,13 +7,13 @@
 - Status: Accepted
 - Runtime: 31 ms
 - Memory: 100 KB
-- Solved At: 2026-05-27T17:05:53.397Z
+- Solved At: 2026-05-27T17:09:46.190Z
 
 ## Code
 ```cpp
-#include<bits/stdc++.h> 
+#include<bits/stdc++.h> 
 using namespace std;
- int main(){
+ int main(){
         int t;
 cin>>t;
     while(t--){
